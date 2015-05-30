@@ -1,4 +1,4 @@
-package IntefaceExample;
+package InterfaceExample;
 
 /**
  * A person class

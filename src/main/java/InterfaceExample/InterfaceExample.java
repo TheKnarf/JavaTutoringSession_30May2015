@@ -1,4 +1,4 @@
-package IntefaceExample;
+package InterfaceExample;
 
 import java.util.LinkedList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package IntefaceExample;
+package InterfaceExample;
 
 /**
  * An interface for stuff that have greetings
